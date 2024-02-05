@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "6f4e5cc7-e943-452d-a434-75d471fd1e2a",
+		"name": "Pruebas login",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23657488"
+	},
+	"item": [
+		{
+			"name": "Hacer login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
